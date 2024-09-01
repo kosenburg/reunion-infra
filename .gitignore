@@ -1,0 +1,8 @@
+.terraform/**
+*.png
+*.tfstate.*
+*.tfstate
+tfplan
+*.json
+**/*.txt
+**/.terraform/** 
